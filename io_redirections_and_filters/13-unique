@@ -1,0 +1,2 @@
+#!/bin/bash
+printf '%s\n' 'hello' 'hello' 'script' 'script2' 'perro' | uniq -u
