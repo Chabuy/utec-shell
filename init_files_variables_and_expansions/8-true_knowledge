@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '%s\n' "$(($((128))+$TRUEKNOWLEDGE))"
+echo -e "$(($((128))+$TRUEKNOWLEDGE))\n"
