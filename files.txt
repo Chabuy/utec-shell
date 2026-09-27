@@ -1,0 +1,5 @@
+./files.txt
+./find
+./io_redirections_and_filters/echo
+./io_redirections_and_filters/0
+./io_redirections_and_filters/input.txt
